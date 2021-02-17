@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+![header](https://img3.labirint.ru/rc/0d7154a51dbc4007d412f9422fd31077/594x918/books8/77169/cover.jpg?1280394613)
 
-You can use the [editor on GitHub](https://github.com/VictorGrig/Business-Like-A-Russian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://www69.online-convert.com/dl/web7/download-file/610eb839-cc81-4818-82a2-f660e3c2fab3/Antech_ru_001_ne_podhodit_dlya_detey_menshe_3h_let.jpg) | ![](https://www18.online-convert.com/dl/web7/download-file/e5733f04-d6ee-4a50-949a-7073ec0fd469/1b9b09f366dc765c9c488e03107d3778.jpg) | ![]() | ![]() | ![]() | ![](https://www42.online-convert.com/dl/web7/download-file/1ea9ca8e-9d5f-4fa1-89db-1f369ceae708/68747470733a2f2f626172636f64652e7465632d69742e636f6d2f626172636f64652e617368783f646174613d3436303730333736363230313826636f64653d45414e3133266d756c7469706c65626172636f6465733d66616c7365267472616e736c6174652d6573633d7472756526756e69743d4669.jpg)
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+Содержит мелкие детали | МД 06 | 2-6 | 10+ | 2:30 | EAN-13
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Об игре
 
-### Markdown
+Экономическая игра – пародия на все существующие экономические игры. Рассчитана на 2-6 игроков. В веселой ироничной манере комикса авторы игры предлагают вспомнить эпоху становления нового российского бизнеса 89-96 гг. Каждый игрок может начать с нуля один или несколько видов бизнеса (торговый, транспортный, туристический, строительный, сельскохозяйственный, индустрию развлечений) и довести его до масштаба транснациональной корпорации. Игра включает в себя все необходимые атрибуты экономической игры высокого класса (рынок, биржа, банк и т.п.).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Дополнительную интригу и азарт придают карточки «крыша», «налоговая» и «правоохранительные органы», а также секторы игрового поля «больница» и «тюрьма», в которые можно угодить после контакта с киллером или прокуратурой. В отличие от большинства традиционных экономических игр, «Бизнес по-русски» сохраняет интригу до последних минут игры. Рекомендуется для семейного досуга и веселого времяпровождения в большой компании.
 
-```markdown
-Syntax highlighted code block
+В комплекте: поле, 2 кубика, фишки, счетчики, более 300 карточек и денежных единиц. Коробка: 50х30х3см, поле: 67х49см.
 
-# Header 1
-## Header 2
-### Header 3
+## Привет, бизнесмен!
 
-- Bulleted
-- List
+Мне подарили эту замечательную настольную игру на день рождения лет в 10 от роду. Как раз примерно в это время на свет появился «Бизнес по-русски». Окрылённый радостью от первой (после шахмат) настольной игры, я поскорей (и, увы, криво) порезал игровые карточки, вызубрил правила от начала до конца и провёл с тех пор не одну сотню партий.
 
-1. Numbered
-2. List
+Но вот ведь незадача. Правила игры почти сразу же потерялись. Интернета в уже далёком 2005-м было не так много, развивать память в те времена было отличной идеей! Сквозь годы я нёс в голове основные положения сей настольной игры, а в один день решил наконец их поискать в Сети. Как ни странно, никто за 16 лет с релиза (на моём дворе – февраль 2021-го) ни отсканировал карточки игры, ни правила. 
 
-**Bold** and _Italic_ and `Code` text
+Как хорошо, что у меня всё ещё хорошая память, а авторы из «Игр и Ко» не постеснялись напомнить основные моменты сзади коробки! Я очень люблю эту игру, а потому от чистой души не желаю ей кануть в Лету. Превозмогая лень и коронавирусные домашние вечера, нашёл в себе силы собрать воедино все игровые особенности и ключевые моменты в этом документе, а также отсканировал игровые карточки.
 
-[Link](url) and ![Image](src)
-```
+Пишите мне на [электронную почту](mailto:o.kak.victor@gmail.com) или в [Telegram](https://t.me/Victor_Grigoryev/), если есть комментарии к правилам или вопросы, буду рад помочь, чем смогу.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Производитель ООО «Юнит Игр и Ко» и ген. дистрибьютор: ООО «Торговый дом Игр и Ко», согласно https://egrul.nalog.ru/ и https://zachestnyibiznes.ru/, ликвидированы 24.03.2014 и 24.10.2016 соответственно. Надеюсь, что Игр Великий не расстроится, а наоборот улыбнётся, ибо его творение любят и ценят даже спустя почти два десятилетия.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictorGrig/Business-Like-A-Russian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Человек жив, пока его помнят. Не забудем же и «Бизнес по-русски», хорошая ведь игра!
