@@ -1,8 +1,8 @@
 ![header](https://img3.labirint.ru/rc/0d7154a51dbc4007d412f9422fd31077/594x918/books8/77169/cover.jpg?1280394613)
 
-![](https://www69.online-convert.com/dl/web7/download-file/610eb839-cc81-4818-82a2-f660e3c2fab3/Antech_ru_001_ne_podhodit_dlya_detey_menshe_3h_let.jpg) | ![](https://www18.online-convert.com/dl/web7/download-file/e5733f04-d6ee-4a50-949a-7073ec0fd469/1b9b09f366dc765c9c488e03107d3778.jpg) | ![]() | ![]() | ![]() | ![](https://www42.online-convert.com/dl/web7/download-file/1ea9ca8e-9d5f-4fa1-89db-1f369ceae708/68747470733a2f2f626172636f64652e7465632d69742e636f6d2f626172636f64652e617368783f646174613d3436303730333736363230313826636f64653d45414e3133266d756c7469706c65626172636f6465733d66616c7365267472616e736c6174652d6573633d7472756526756e69743d4669.jpg)
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
 Содержит мелкие детали | МД 06 | 2-6 | 10+ | 2:30 | EAN-13
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+![](https://www69.online-convert.com/dl/web7/download-file/610eb839-cc81-4818-82a2-f660e3c2fab3/Antech_ru_001_ne_podhodit_dlya_detey_menshe_3h_let.jpg) | ![](https://www18.online-convert.com/dl/web7/download-file/e5733f04-d6ee-4a50-949a-7073ec0fd469/1b9b09f366dc765c9c488e03107d3778.jpg) | ![]() | ![]() | ![]() | ![](https://www42.online-convert.com/dl/web7/download-file/1ea9ca8e-9d5f-4fa1-89db-1f369ceae708/68747470733a2f2f626172636f64652e7465632d69742e636f6d2f626172636f64652e617368783f646174613d3436303730333736363230313826636f64653d45414e3133266d756c7469706c65626172636f6465733d66616c7365267472616e736c6174652d6573633d7472756526756e69743d4669.jpg)
 
 ## Об игре
 
